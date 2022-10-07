@@ -26,4 +26,4 @@ polynom = get_polynomial(k, ratios)
 print(polynom)
 
 with open('poly.txt', 'w') as data:
-    data.write(polynom)
+    data.write(polynom) 
